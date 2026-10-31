@@ -1,0 +1,24 @@
+{
+  "basic_transformer": {
+    "kaggle_handle": "eltonlewis/ict4403-en-fr-translation-checkpoints/pyTorch/basic-transformer/1",
+    "source_training_run": "https://www.kaggle.com/code/eltonlewis/ict4403-basic-transformer-english-french",
+    "files": {
+      "model.pt": {"bytes": 18940099, "sha256": "532fac22924b711d2672cd2fa8e06e60290e22e57b243744e44e56a1678cb39c"},
+      "shared_bpe.model": {"bytes": 300015, "sha256": "a1beadad1fd5a5c4ae1836e989d88c22914ae455c9f7261081431c7df73b1d63"},
+      "shared_bpe.vocab": {"bytes": 50727, "sha256": "a817f7f48ea27b288f78c7661ecc1f58380b697bf547f768694ec677ba7e4639"}
+    }
+  },
+  "mt5_small_finetuned": {
+    "kaggle_handle": "eltonlewis/ict4403-en-fr-translation-checkpoints/pyTorch/mt5-small-finetuned/1",
+    "source_training_run": "https://www.kaggle.com/code/eltonlewis/ict4403-mt5-english-french",
+    "files": {
+      "config.json": {"bytes": 757, "sha256": "fc49c21fad639f38428a0e159433e51034eed4f8bdfd01df0b443f96c9acdefb"},
+      "generation_config.json": {"bytes": 142, "sha256": "8145d7eecabff8e16a9876617a6d52728e9b8fbe24c426e6bf9ebbd6bfb87737"},
+      "model.safetensors": {"bytes": 1200729512, "sha256": "443685be8165d3fb5a9c4a82d87a94ecac0be08401814fd93b1cf755b8dbc8cf"},
+      "special_tokens_map.json": {"bytes": 416, "sha256": "80f4c6c5cf3867d7669ff8aa8f6aebb8a7499322e62d6014edd61"},
+      "spiece.model": {"bytes": 4309802, "sha256": "ef78f86560d809067d12bac6c09f19a462cb3af3f54d2b8acbba26e1433125d6"},
+      "tokenizer.json": {"bytes": 16350183, "sha256": "61d547adb321365035ae675f04d4b6cd25da8e72fed4b6cebfdafffd8fe44392"},
+      "tokenizer_config.json": {"bytes": 19282, "sha256": "0cc38b0b347bc10791e68bef3cf2537849bcd39ae70c46f8c0a630dc3db43994"}
+    }
+  }
+}

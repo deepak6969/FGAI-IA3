@@ -1,0 +1,97 @@
+{
+  "basic_transformer": {
+    "model": "basic_transformer",
+    "architecture": "encoder-decoder",
+    "parameters": 4729760,
+    "training_seconds": 12.89383024099999,
+    "inference_seconds": 5.793929463999973,
+    "test_count": 200,
+    "epochs": 5,
+    "history": [
+      {
+        "epoch": 1,
+        "train_loss": 6.909470315963503,
+        "validation_loss": 6.267507433891296
+      },
+      {
+        "epoch": 2,
+        "train_loss": 6.177477253807916,
+        "validation_loss": 5.934161424636841
+      },
+      {
+        "epoch": 3,
+        "train_loss": 5.860576879410517,
+        "validation_loss": 5.696824669837952
+      },
+      {
+        "epoch": 4,
+        "train_loss": 5.620027473994663,
+        "validation_loss": 5.513322114944458
+      },
+      {
+        "epoch": 5,
+        "train_loss": 5.419396892426506,
+        "validation_loss": 5.380269765853882
+      }
+    ],
+    "decoding": "greedy, max 95 generated tokens",
+    "device": "Tesla T4"
+  },
+  "mt5": {
+    "model": "mt5",
+    "model_id": "google/mt5-small",
+    "architecture": "encoder-decoder",
+    "parameters": 300176768,
+    "training_seconds": 185.56480490800004,
+    "inference_seconds": 33.47335706500007,
+    "test_count": 200,
+    "history": [
+      {
+        "epoch": 1,
+        "train_loss": 5.436986928462982,
+        "validation_loss": 2.77805718421936
+      }
+    ],
+    "epochs": 1,
+    "decoding": "greedy, max 96 new tokens",
+    "device": "Tesla T4"
+  },
+  "llama": {
+    "model": "llama",
+    "model_id": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+    "architecture": "decoder-only",
+    "adaptation": "three-shot prompting; no parameter updates",
+    "parameters": 1100048384,
+    "training_seconds": 0,
+    "load_seconds": 34.075821263999984,
+    "inference_seconds": 674.4368815959999,
+    "test_count": 200,
+    "temperature": 0,
+    "max_new_tokens": 96,
+    "device": "Tesla T4",
+    "few_shot_ids": [
+      "5dfb796481cb542b",
+      "33327164147ce32d",
+      "79f8c056e9adef63"
+    ]
+  },
+  "gemma": {
+    "model": "gemma",
+    "model_id": "unsloth/gemma-3-1b-it",
+    "architecture": "decoder-only",
+    "adaptation": "three-shot prompting; no parameter updates",
+    "parameters": 999885952,
+    "training_seconds": 0,
+    "load_seconds": 40.68626206699997,
+    "inference_seconds": 417.709597464,
+    "test_count": 200,
+    "temperature": 0,
+    "max_new_tokens": 96,
+    "device": "Tesla T4",
+    "few_shot_ids": [
+      "5dfb796481cb542b",
+      "33327164147ce32d",
+      "79f8c056e9adef63"
+    ]
+  }
+}

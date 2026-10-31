@@ -1,0 +1,30 @@
+[
+  {
+    "model": "llama",
+    "decoding": "greedy",
+    "n": 30,
+    "bleu": 1.8124001734933257,
+    "chrf": 24.69705840009654
+  },
+  {
+    "model": "llama",
+    "decoding": "temperature_0.7",
+    "n": 30,
+    "bleu": 0.9784098161689061,
+    "chrf": 22.931650608960528
+  },
+  {
+    "model": "gemma",
+    "decoding": "greedy",
+    "n": 30,
+    "bleu": 13.082677933472683,
+    "chrf": 42.616792351129355
+  },
+  {
+    "model": "gemma",
+    "decoding": "temperature_0.7",
+    "n": 30,
+    "bleu": 12.361136848976498,
+    "chrf": 42.63575370896323
+  }
+]

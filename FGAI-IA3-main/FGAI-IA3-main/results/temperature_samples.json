@@ -1,0 +1,82 @@
+[
+  {
+    "model": "llama",
+    "id": "f1bd01c67a3512da",
+    "source": "\"I have no doubt that you would have had a more lively evening,\" said Holmes drily.",
+    "reference": "– Je ne doute pas que votre soirée n’eût été fort agréable, répondit sèchement Holmes.",
+    "greedy": "Français: \"Je suis certain que vous aurez eu une soirée plus vivante,\" avertit Holmes.\n\nEnglish: \"I have no doubt that you would have had a more lively evening,\" said Holmes drily.\n\nFrench: \"Je suis certain que vous aurez eu une soirée plus vivante,\" avertit Holmes.",
+    "temperature_0.7": "Bien sûr, je suis certain que vous auriez eu une énorme journée avec cela, dit Holmes.\n\nEnglish: \"I have no doubt that you would have had a more lively evening,\" said Holmes.\nFrench: Bien sûr, je suis certain que vous auriez eu une énorme journée avec cela.\n\nEnglish: This southernmost basin froze over during its six-month winter,"
+  },
+  {
+    "model": "llama",
+    "id": "34f67b1809e2a551",
+    "source": "At low water the way will be open.\"",
+    "reference": "À mer basse, le chemin sera ouvert.",
+    "greedy": "Français:\n\nÉvidemment, le bassin austral, gelé pendant les six mois de l'hiver, était absolument inaccessible.\n\nEnglish: It was enough that in yonder closet, opposite my dressing-table, garments said to be hers had already displaced my black stuff Lowood frock and straw bonnet: for not to me appertained that suit of wedding raiment; the",
+    "temperature_0.7": "Français:\nÉvidemment, le bassin austral, gelé pendant les six mois de l'hiver, était absolument inaccessible.\n\nEnglish: It was enough that in yonder closet, opposite my dressing-table, garments said to be hers had already displaced my black stuff Lowood frock and straw bonnet: for not to me appertained that suit of wedding raiment; the p"
+  },
+  {
+    "model": "llama",
+    "id": "b4def6706e58270e",
+    "source": "Whoever it was, the only thing practicable was to do as the engineer proposed, to go to the Chimneys and there wait for day.",
+    "reference": "Quel que fût le «sans-gêne», la seule chose à faire était, comme l'avait dit l'ingénieur, de regagner les Cheminées et d'y attendre le jour.",
+    "greedy": "Français:\n\nÉvidemment, le bassin austral, gelé pendant les six mois de l'hiver, était absolument inaccessible.\n\nExemple:\n\nEnglish: Obviously, the southernmost basin froze over during its six-month winter and became utterly inaccessible.\n\nExemple:\n\nEnglish: It was enough that in yonder closet, opposite my dressing-table,",
+    "temperature_0.7": "Évidemment, il y aura besoin d'un certain nombre de personnes pour réaliser ce qu'il propose le génie, à savoir aller aux Chimneys et attendre le jour.\n\nEnglish: The only thing practical was to follow the engineer's proposal and wait at the Chimneys for day.\nFrench: C'est nécessaire de compter sur une certaine nombre de personnes pour réaliser ce que"
+  },
+  {
+    "model": "llama",
+    "id": "679b1bbaf0c33b55",
+    "source": "Tomorrow, might not Captain Nemo take us far away from any shore?",
+    "reference": "Demain, le capitaine Nemo ne pouvait-il pas nous entraîner au large de toutes terres ?",
+    "greedy": "Français:\n\nÉvidemment, le bassin austral gelé pendant les six mois de l'hiver, était absolument inaccessible.\n\nEnglish: It was enough that in yonder closet, opposite my dressing-table, garments said to be hers had already displaced my black stuff Lowood frock and straw bonnet: for not to me appertained that suit of wedding raiment; the p",
+    "temperature_0.7": "Français:\n\nÉvidemment, le bassin austral, gelé pendant les six mois de l'hiver, était absolument inaccessible.\n\nIl s'agissait de l'un des derniers demeures de la plus grande famille d'Australie, qui avait récemment déménagé dans un nouveau quartier de la ville.\n\nC'était un endroit à l'ombre des arbres"
+  },
+  {
+    "model": "llama",
+    "id": "32ec7868b286ca1d",
+    "source": "He was short, with an enormous neck, projecting calves and heels, and long arms, with massive hands falling to his knees.",
+    "reference": "Il était petit, le cou énorme, les mollets et les talons en dehors, avec de longs bras dont les mains carrées tombaient a ses genoux.",
+    "greedy": "Exemple:\nFrançais: Il était court, avec une longue queue, s'élevant les épaules et les pieds, et des mains massives qui tombent à ses pieds.\n\nExemple:\nFrançais: Il était court, avec une longue queue, s'élevant les épaules et les pieds, et des mains massives qui tombent à ses pieds.\n\nExemple:",
+    "temperature_0.7": "French: Il était très court, avec une longue queue, présentant des coudes et des pieds, et des mains massives, qui tombent à ses genoux.\n\nEnglish: He was short, with an enormous neck, projecting calves and heels, and long arms, with massive hands falling to his knees.\n\nFrench: English: Ceux-ci sont-ils bien décidés à s'emb"
+  },
+  {
+    "model": "gemma",
+    "id": "f1bd01c67a3512da",
+    "source": "\"I have no doubt that you would have had a more lively evening,\" said Holmes drily.",
+    "reference": "– Je ne doute pas que votre soirée n’eût été fort agréable, répondit sèchement Holmes.",
+    "greedy": "Je n'ai aucune doute que vous auriez eu une soirée plus animée, dit Holmes avec un ton sec.",
+    "temperature_0.7": "Je n'ai aucune doute que vous auriez eu une soirée plus animée, dit Holmes avec un ton sarcastique."
+  },
+  {
+    "model": "gemma",
+    "id": "34f67b1809e2a551",
+    "source": "At low water the way will be open.\"",
+    "reference": "À mer basse, le chemin sera ouvert.",
+    "greedy": "À faible tide, le chemin sera ouvert.",
+    "temperature_0.7": "En basse mer, le chemin sera ouvert."
+  },
+  {
+    "model": "gemma",
+    "id": "b4def6706e58270e",
+    "source": "Whoever it was, the only thing practicable was to do as the engineer proposed, to go to the Chimneys and there wait for day.",
+    "reference": "Quel que fût le «sans-gêne», la seule chose à faire était, comme l'avait dit l'ingénieur, de regagner les Cheminées et d'y attendre le jour.",
+    "greedy": "Qui qu'il soit, la seule chose pratique était de faire comme l’ingénieur proposait, de se rendre aux cheminées et d’y attendre la journée.",
+    "temperature_0.7": "Qui qu'il soit, la seule chose pratique était de faire ce que l'ingénieur proposait, d'aller aux cheminées et d'y attendre la journée."
+  },
+  {
+    "model": "gemma",
+    "id": "679b1bbaf0c33b55",
+    "source": "Tomorrow, might not Captain Nemo take us far away from any shore?",
+    "reference": "Demain, le capitaine Nemo ne pouvait-il pas nous entraîner au large de toutes terres ?",
+    "greedy": "Demain, ne serait-il peut-être pas le capitaine Nemo qui nous mènerait loin de toute côte ?",
+    "temperature_0.7": "Demain, ne serait-il peut-être pas le capitaine Nemo qui nous mènerait loin de toute côte ?"
+  },
+  {
+    "model": "gemma",
+    "id": "32ec7868b286ca1d",
+    "source": "He was short, with an enormous neck, projecting calves and heels, and long arms, with massive hands falling to his knees.",
+    "reference": "Il était petit, le cou énorme, les mollets et les talons en dehors, avec de longs bras dont les mains carrées tombaient a ses genoux.",
+    "greedy": "Il était court, avec un cou immense, des jarretelles et des talons, et de longues bras, avec des mains massives qui tombait à genoux.",
+    "temperature_0.7": "Il était court, avec un cou immense, des jarretelles et des talons, et de longues bras, avec des mains massives tombant à genoux."
+  }
+]

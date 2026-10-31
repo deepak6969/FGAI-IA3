@@ -1,0 +1,22 @@
+{
+  "raw_rows": 127085,
+  "clean_unique_rows": 117720,
+  "rejected": {
+    "empty_or_length": 7990,
+    "length_ratio": 891,
+    "duplicate_source": 484
+  },
+  "seed": 4403,
+  "sizes": {
+    "train": 4000,
+    "validation": 200,
+    "test": 200
+  },
+  "source": "https://huggingface.co/datasets/Helsinki-NLP/opus_books/tree/main/en-fr",
+  "language_pair": "en-fr",
+  "normalization": "Unicode NFKC and whitespace collapse",
+  "filters": "English 10-300 chars, French 10-350 chars, length ratio 0.45-2.2",
+  "deduplication": "casefolded English source; first occurrence retained",
+  "kaggle_notebook": "https://www.kaggle.com/code/eltonlewis/ict4403-english-french-data-preparation",
+  "kaggle_version": 2
+}

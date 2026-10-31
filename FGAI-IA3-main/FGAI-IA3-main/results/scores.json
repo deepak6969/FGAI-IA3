@@ -1,0 +1,42 @@
+[
+  {
+    "model": "basic_transformer",
+    "bleu": 0.42352468516226704,
+    "chrf": 9.498789767440826,
+    "parameters": 4729760,
+    "training_seconds": 12.89383024099999,
+    "inference_seconds": 5.793929463999973,
+    "test_count": 200,
+    "architecture": "encoder-decoder"
+  },
+  {
+    "model": "mt5",
+    "bleu": 4.629818603857755,
+    "chrf": 23.23828062485122,
+    "parameters": 300176768,
+    "training_seconds": 185.56480490800004,
+    "inference_seconds": 33.47335706500007,
+    "test_count": 200,
+    "architecture": "encoder-decoder"
+  },
+  {
+    "model": "llama",
+    "bleu": 1.8295499405628899,
+    "chrf": 23.55062139215408,
+    "parameters": 1100048384,
+    "training_seconds": 0,
+    "inference_seconds": 674.4368815959999,
+    "test_count": 200,
+    "architecture": "decoder-only"
+  },
+  {
+    "model": "gemma",
+    "bleu": 14.11442417605496,
+    "chrf": 42.827170522634276,
+    "parameters": 999885952,
+    "training_seconds": 0,
+    "inference_seconds": 417.709597464,
+    "test_count": 200,
+    "architecture": "decoder-only"
+  }
+]

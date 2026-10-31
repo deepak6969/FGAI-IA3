@@ -1,0 +1,42 @@
+{
+  "platform": "Kaggle",
+  "accelerator": "Tesla T4",
+  "dataset_preparation": {
+    "url": "https://www.kaggle.com/code/eltonlewis/ict4403-english-french-data-preparation",
+    "version": 2,
+    "status": "COMPLETE"
+  },
+  "basic_transformer": {
+    "url": "https://www.kaggle.com/code/eltonlewis/ict4403-basic-transformer-english-french",
+    "version": 3,
+    "status": "COMPLETE",
+    "checkpoint": "basic_transformer/model.pt"
+  },
+  "mt5": {
+    "url": "https://www.kaggle.com/code/eltonlewis/ict4403-mt5-english-french",
+    "version": 3,
+    "status": "COMPLETE",
+    "checkpoint": "mt5/checkpoint/model.safetensors"
+  },
+  "llama_architecture": {
+    "url": "https://www.kaggle.com/code/eltonlewis/ict4403-llama-english-french",
+    "version": 3,
+    "status": "COMPLETE",
+    "model_id": "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
+  },
+  "gemma": {
+    "url": "https://www.kaggle.com/code/eltonlewis/ict4403-gemma-1b-english-french",
+    "version": 1,
+    "status": "COMPLETE",
+    "model_id": "unsloth/gemma-3-1b-it"
+  },
+  "evaluation": {
+    "url": "https://www.kaggle.com/code/eltonlewis/ict4403-final-translation-evaluation",
+    "version": 2,
+    "status": "COMPLETE"
+  },
+  "original_gated_attempts": {
+    "meta_llama_3_2_1b_instruct": "HTTP 401 gated model access",
+    "google_gemma_3_270m_it": "HTTP 401 gated model access"
+  }
+}

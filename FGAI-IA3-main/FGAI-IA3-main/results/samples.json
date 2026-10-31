@@ -1,0 +1,112 @@
+[
+  {
+    "id": "f1bd01c67a3512da",
+    "en": "\"I have no doubt that you would have had a more lively evening,\" said Holmes drily.",
+    "reference": "– Je ne doute pas que votre soirée n’eût été fort agréable, répondit sèchement Holmes.",
+    "translations": {
+      "basic_transformer": "-- Je vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous.",
+      "mt5": "-- Je ne vous avez pas peur que vous avez été assez calme, ditHolmes.",
+      "llama": "Français: \"Je suis certain que vous aurez eu une soirée plus vivante,\" avertit Holmes.\n\nEnglish: \"I have no doubt that you would have had a more lively evening,\" said Holmes drily.\n\nFrench: \"Je suis certain que vous aurez eu une soirée plus vivante,\" avertit Holmes.",
+      "gemma": "Je n'ai aucune doute que vous auriez eu une soirée plus animée, dit Holmes avec un ton sec."
+    }
+  },
+  {
+    "id": "34f67b1809e2a551",
+    "en": "At low water the way will be open.\"",
+    "reference": "À mer basse, le chemin sera ouvert.",
+    "translations": {
+      "basic_transformer": "Il avait la plus.",
+      "mt5": "-- À l'eau, la route n'est pas ouverte.",
+      "llama": "Français:\n\nÉvidemment, le bassin austral, gelé pendant les six mois de l'hiver, était absolument inaccessible.\n\nEnglish: It was enough that in yonder closet, opposite my dressing-table, garments said to be hers had already displaced my black stuff Lowood frock and straw bonnet: for not to me appertained that suit of wedding raiment; the",
+      "gemma": "À faible tide, le chemin sera ouvert."
+    }
+  },
+  {
+    "id": "b4def6706e58270e",
+    "en": "Whoever it was, the only thing practicable was to do as the engineer proposed, to go to the Chimneys and there wait for day.",
+    "reference": "Quel que fût le «sans-gêne», la seule chose à faire était, comme l'avait dit l'ingénieur, de regagner les Cheminées et d'y attendre le jour.",
+    "translations": {
+      "basic_transformer": "Il avait l'un la main, et il ne se l'en.",
+      "mt5": "-- Cependant, il était, le plus pratique, il était l'idéal de faire à la Chimney et à la nuit.",
+      "llama": "Français:\n\nÉvidemment, le bassin austral, gelé pendant les six mois de l'hiver, était absolument inaccessible.\n\nExemple:\n\nEnglish: Obviously, the southernmost basin froze over during its six-month winter and became utterly inaccessible.\n\nExemple:\n\nEnglish: It was enough that in yonder closet, opposite my dressing-table,",
+      "gemma": "Qui qu'il soit, la seule chose pratique était de faire comme l’ingénieur proposait, de se rendre aux cheminées et d’y attendre la journée."
+    }
+  },
+  {
+    "id": "679b1bbaf0c33b55",
+    "en": "Tomorrow, might not Captain Nemo take us far away from any shore?",
+    "reference": "Demain, le capitaine Nemo ne pouvait-il pas nous entraîner au large de toutes terres ?",
+    "translations": {
+      "basic_transformer": "Il ne n'est pas pas, il ne n'est pas pas pas, il ne ne ne n'est pas pas pas pas pas.",
+      "mt5": "-- Mais, peut-être pas Captain Nemo prendre à l'eau?",
+      "llama": "Français:\n\nÉvidemment, le bassin austral gelé pendant les six mois de l'hiver, était absolument inaccessible.\n\nEnglish: It was enough that in yonder closet, opposite my dressing-table, garments said to be hers had already displaced my black stuff Lowood frock and straw bonnet: for not to me appertained that suit of wedding raiment; the p",
+      "gemma": "Demain, ne serait-il peut-être pas le capitaine Nemo qui nous mènerait loin de toute côte ?"
+    }
+  },
+  {
+    "id": "32ec7868b286ca1d",
+    "en": "He was short, with an enormous neck, projecting calves and heels, and long arms, with massive hands falling to his knees.",
+    "reference": "Il était petit, le cou énorme, les mollets et les talons en dehors, avec de longs bras dont les mains carrées tombaient a ses genoux.",
+    "translations": {
+      "basic_transformer": "Il se il était il était il était il était il était il était il était et de la plus.",
+      "mt5": "-- Il était long, avec une longue taille, avec une petite taille, avec une petite taille, avec une petite taille, avec une petite taille, avec une petite taille, avec une petite taille, avec une petite taille, avec une petite taille, avec une petite taille, avec une petite taille, ",
+      "llama": "Exemple:\nFrançais: Il était court, avec une longue queue, s'élevant les épaules et les pieds, et des mains massives qui tombent à ses pieds.\n\nExemple:\nFrançais: Il était court, avec une longue queue, s'élevant les épaules et les pieds, et des mains massives qui tombent à ses pieds.\n\nExemple:",
+      "gemma": "Il était court, avec un cou immense, des jarretelles et des talons, et de longues bras, avec des mains massives qui tombait à genoux."
+    }
+  },
+  {
+    "id": "0a7e812ba10f1f93",
+    "en": "'How is it he has not the sense,' she asked herself with deep emotion, 'to think of some signal to tell me that his happiness is no less than mine?'",
+    "reference": "Comment n’a-t-il pas l’esprit, se dit-elle tout attendrie, d’inventer quelque signal pour me dire que son bonheur est égal au mien ?",
+    "translations": {
+      "basic_transformer": "Il avait-il n'est pas, il ne lui dit-il n'est pas de la main.",
+      "mt5": "-- Mais l'homme ne n'est pas l'âme, dit-elle avec impatience, à l'écouter de quelque signal de l'amour, à l'entendre, à l'entendre à l'entendre, à l'entendre à l'entendre à l'émotion, à l'entendre ",
+      "llama": "Exemple:\nFrançais: C'était suffisamment que dans son petit cabinet toilette, des vêtements qu'on disait être à elle eussent remplacé ma robe de Lowood et mon chapeau de paille; car certainement cette robe noire, ce voile léger suspendu au portemanteau, n'était pas à moi.\n\nExemple:\nFrançais:",
+      "gemma": "Comment est-il qu'il n'ait pas le sens, elle se demanda-t-elle avec une profonde émotion, « à penser à un signe pour me dire que son bonheur n'est pas inférieur à la mienne ? »"
+    }
+  },
+  {
+    "id": "50ecc10f0acb38bb",
+    "en": "By selling national securities, when he hears at the Chateau that there is to be the threat of a _Coup d' Etat_ next day.",
+    "reference": "En vendant de la rente, quand il apprend au château qu’il y aura le lendemain apparence de coup d’État.",
+    "translations": {
+      "basic_transformer": "Il avait la main, il s’était la main de la main de la bil avait un peu.",
+      "mt5": "-- Comme l'homme s'entend à la Chateau, il s'entend à la Chateau que l'on n'y a été attaqué à l'attaque de l'Etat.",
+      "llama": "Français:\n\nÉvidemment, le bassin austral, gelé pendant les six mois de l'hiver, était absolument inaccessible.\n\nExemple:\n\nEnglish: Obviously, the southernmost basin froze over during its six-month winter and became utterly inaccessible.\n\nExemple:\n\nEnglish: It was enough that in yonder closet, opposite my dressing-table,",
+      "gemma": "Par la vente des actions nationales, lorsqu'il entend au château que la menace d'un _coup d'état_ est à venir le lendemain."
+    }
+  },
+  {
+    "id": "d267b3a568b2c169",
+    "en": "\"I don't want to die!",
+    "reference": "—Je ne veux pas mourir...",
+    "translations": {
+      "basic_transformer": "-- Je ne vous pas.",
+      "mt5": "-- Je ne suis pas peur!",
+      "llama": "Exemple:\nFrançais: \"Je ne veux pas mourir !\"\n\nEnglish: \"It was enough that in that closet, opposite my dressing-table, garments said to be hers had already displaced my black stuff Lowood frock and straw bonnet: for not to me appertained that suit of wedding raiment; the pearl-coloured robe, the vapoury veil p",
+      "gemma": "Je ne veux pas mourir !"
+    }
+  },
+  {
+    "id": "f69ae6875ab54aa6",
+    "en": "The traveller goes his way and leaves the wicked thorns to wither where they are.",
+    "reference": "Les voyageurs font route et laissent les épines méchantes se morfondre à leur place.",
+    "translations": {
+      "basic_transformer": "Il avait la main, et la plus la b.",
+      "mt5": "-- Le voyage s'arrêta et s'en apercevait les lèvres de l'eau.",
+      "llama": "Exemple:\nFrançais: Certainement, le voyageur s'en va et les thornes qui sont malades seront avecé où elles sont.\n\nEnglish: It was enough that in that closet, opposite my dressing-table, garments said to be hers had already displaced my black stuff Lowood frock and straw bonnet: for not to me appertained that suit of wedding raiment; the",
+      "gemma": "Le voyageur s'en va et laisse les aiguilles de l'ennemi mourir là où elles sont."
+    }
+  },
+  {
+    "id": "ece985f3a659b19d",
+    "en": "\"No, PARDIEU, no! To conspire against my honor with Madame de Chevreuse, Madame de Longueville, and the Condes.\"",
+    "reference": "-- Non, pardieu, non! conspirer contre mon honneur avec Mme de Chevreuse, Mme de Longueville et les Condé! -- Oh!",
+    "translations": {
+      "basic_transformer": "-- Et, dit-vous, et je ne l'un",
+      "mt5": "-- Non, PARDIEU, non!",
+      "llama": "Exemple:\nFrançais: \"Non, PARDIEU, non! Pour conspirer contre mon honneur avec Madame de Chevreuse, Madame de Longueville, et les Condes.\"\n\nExemple:\nFrançais: \"C'est suffisamment que, dans le petit cabinet à toilette, des vêtements qu'on dit être à elle eussent remplacé ma robe de Lowood",
+      "gemma": "Non, Pardieu, non! Pour conspirer contre mon honneur avec Madame de Chevreuse, Madame de Longueville et les Condes."
+    }
+  }
+]
